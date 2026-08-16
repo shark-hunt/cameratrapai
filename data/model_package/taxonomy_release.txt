@@ -3535,4 +3535,4 @@ e8e3b12d-eeaf-4ba0-8b5a-3f455c32b910;reptilia;testudines;emydidae;terrapene;triu
 830419bc-bbb2-401e-a2d6-699624709986;reptilia;testudines;testudinidae;gopherus;berlandieri;berlandier's tortoise
 24db939e-690e-4dcf-a110-3e90392f3f23;reptilia;testudines;testudinidae;gopherus;polyphemus;gopher tortoise
 a19d99e6-26e0-4152-8e2a-dce3c786f1d7;reptilia;testudines;testudinidae;stigmochelys;;
-8a90c138-7a9a-47cf-ba62-6b6948662fe2;reptilia;testudines;testudinidae;stigmochelys;pardalis;leopard tortoise
+8a90c138-7a9a-47cf-ba62-6b6948662fe2;reptilia;testudines;testudinidae;stigmochelys;pardalis;leopard tortoise
